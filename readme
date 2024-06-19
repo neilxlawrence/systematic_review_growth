@@ -1,1 +1,30 @@
 #Readme file
+
+This repository holds the results associated with the journal article Risk of bias in machine learning and statistical models to predict height or weight: a systematic
+review in fetal and paediatric medicine.
+
+Preprint of this paper can be accessed: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4788669
+
+Authors: Neil R Lawrence, Irina Bacila, Joseph Tonge, Anthea Tucker, Jeremy Dawson, Zi-Qiang Lang, Nils
+P Krone, Paula Dhiman, Gary S Collins
+
+Background
+Prediction of suboptimal growth allows early intervention that can improve outcomes for developing fetus’ as well
+as infants and children. We assessed the risk of bias of published prediction models that predict height and weight in
+fetal and paediatric medicine to understand their quality.
+Method
+We systematically searched MEDLINE and EMBASE for peer reviewed original research studies published in 2022. We
+included studies if they developed or validated a multivariable model to predict height or weight of an individual,
+and excluded genetic studies. Risk of bias was assessed for all prediction models and analyses using the Prediction
+model Risk Of Bias ASsessment Tool (PROBAST).
+Results
+Sixty-four studies were included, in which we assessed the development of 180 models and validation of 61 models.
+Models performed best in the outcomes domain, with 61% of models developed and 85% of models rated at low risk
+of bias. However, 100% of the models were rated as high risk of bias in the analysis domain, resulting in an overall
+high risk of bias in all 241 models assessed. Only 29% (53/180) of the developed models were reported in their
+respective studies hindering further research and external validation.
+Conclusion
+Recent models developed and validated in 2022 to predict height and weight in fetuses and children are at high risk
+of bias and are unsuitable for application in clinical practice. Research into prediction of growth should focus on
+model updating using appropriate data sources with transparent reporting to allow for external validation.
+
